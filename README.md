@@ -86,3 +86,5 @@ int main() {
 
 
 ## RESULT
+
+Thus the C program to implement the hill cipher substitution techniques is completed and successfully executed.
